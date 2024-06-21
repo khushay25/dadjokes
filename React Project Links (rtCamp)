@@ -1,0 +1,105 @@
+Projects
+
+1. Redefined
+•	URL: https://redefined.vercel.app/ 
+•	Github repo: https://github.com/Vansh983/redefined 
+•	Description: A dynamic website for a non-profit organization, featuring responsive design, login-based access to resources, and a donation page.
+•	Tech Stack:
+o	Frontend: React, Next.js, Tailwind CSS
+o	Backend: Sanity (NoSQL database)
+o	Languages: JavaScript, TypeScript
+o	Other: API integration for data synchronization
+
+2. Nothing Grey
+•	URL: https://nothing-grey.vercel.app/
+•	Description: An e-commerce platform for the Nothing Grey brand with implemented cart functionality and a UI designed according to client specifications. The project was discontinued midway.
+•	Tech Stack:
+o	Design Tools: Figma, Behance
+o	Frontend: React, Next.js, Tailwind CSS
+o	Languages: TypeScript, JavaScript
+o	State Management: Context API
+
+3. FOH Dashboard
+•	URL: https://foh-dashboard.vercel.app
+•	Description: A dashboard for the Faculty of Health to track placements across various departments from 2018-2023. Data is displayed through graphs and filtered based on user selection.
+•	Tech Stack:
+o	Frontend: React, Next.js, Tailwind CSS
+o	Languages: TypeScript, JavaScript
+o	Backend: PostgreSQL
+o	Other: JSON formatting, data manipulation, JWT for authentication, Supabase
+
+4. Waqalat Web
+•	URL: https://waqalat-web.vercel.app/
+•	Description: A web app for generating and customizing legal documents, with options for printing, self-emailing, and connecting with lawyers for advice.
+•	Tech Stack:
+o	Authentication: Google OAuth 2.0, NextAuth, JWT, Passport.js
+o	Backend: PostgreSQL, Prisma, Node.js, Express
+o	Frontend: React, Next.js, Tailwind CSS
+o	Deployment: AWS EC2
+
+5. Juliano Demo
+•	URL: https://juliano-demo.vercel.app/
+•	Description: A personal portfolio website for an artist, featuring a shop, cart functionality, and Stripe for payment processing.
+•	Tech Stack:
+o	Frontend: React, Next.js, Tailwind CSS
+o	Languages: TypeScript, JavaScript
+o	Backend: Sanity (NoSQL database), Node.js
+o	Deployment: Vercel (Backend URL: Juliano Server)
+
+6. Society Permission Portal
+•	URL: https://soc-perm-portal-seven.vercel.app/
+•	GitHub Source Code : https://github.com/Vansh983/soc-perm-portal
+•	Description: A portal for Thapar University with role-based authorization, login, approval workflows, real-time updates, and PDF uploads.
+•	Tech Stack:
+o	Frontend: React, Next.js, Tailwind CSS
+o	Languages: TypeScript, JavaScript
+o	Backend: Supabase
+o	Other: Node.js, API integrations
+
+7. Legal Docs Manager
+•	GitHub (Admin Repo) : https://github.com/Vansh983/legal-docs-admin
+•	GitHub (Backend Repo) : https://github.com/abhi-824/legal-docs-backend
+•	Description: A web app for managing legal documents, including user authentication, PDF to text and Excel conversion, and sharing via WhatsApp, email, and text message.
+•	Tech Stack:
+o	Frontend: React, Next.js, Tailwind CSS
+o	Languages: TypeScript, JavaScript
+o	Backend: SQL, Prisma
+o	Other: API integrations, Yarn
+
+8. Dalhub
+•	URL: https://dalhub.vercel.app/canary
+•	Description: An event page for Dalhousie University societies with dynamic rendering, filtering, query search, and various grid views.
+•	Tech Stack:
+o	Frontend: React, Next.js, Tailwind CSS
+o	Languages: TypeScript, JavaScript
+o	Backend: PostgreSQL, Prisma
+o	Other: Yarn, API integrations
+
+9. Good Neighbour Admin
+•	URL: https://gn-admin.vercel.app
+•	Description: An admin app for the Good Neighbour app platform, enabling messaging via WhatsApp and email, and managing group memberships.
+•	Tech Stack:
+o	Frontend: React, Next.js, Tailwind CSS
+o	Languages: TypeScript, JavaScript
+o	Backend: PostgreSQL, Node.js, Express
+o	Other: API integrations
+
+10. Hivo
+•	Client GitHub: https://github.com/Vansh983/hivo-client
+•	Server GitHub: https://github.com/Vansh983/hivo-server
+•	Description: An ongoing project for an app allowing remote working professionals to book workstations, integrating Google Maps and payment gateways, similar to Airbnb.
+•	Tech Stack:
+o	Mobile: React Native
+o	Backend: Node.js, Prisma, PostgreSQL
+o	Frontend: React, Next.js (Admin Web: https://hivo-web.vercel.app/)
+o	Languages: TypeScript, JavaScript, CSS
+o	Authentication: Google OAuth, Apple, Facebook, email, and number login integrations
+o	Other: Google Maps API
+
+11. Salesforce Airline Ticket Reservation Project
+•	PPT & Certificate Link: 
+	https://docs.google.com/presentation/d/1MO4ExPz4ObzyrnQ6hROu_ribvp2sKpih/edit#slide=id.p1 
+	https://drive.google.com/file/d/1zNMM9qSY-cDXIjDrfg-5yQgm0jDqGJRO/view?usp=drive_link
+	https://drive.google.com/file/d/19nndAOCuWAUhBra7XL8O-U0EMMOMFI6C/view?usp=drive_link 
+•	Description: Using Salesforce lightning account developed workflow for airline ticket reservation and customized email template for reservation confirm email sending.
+•	Tech Stack: Salesforce
